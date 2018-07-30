@@ -1,3 +1,3 @@
 # Crash course / algorithm design practice
-algorithm design practice crash course for SDG
-<3 Love thy white board
+## algorithm design practice crash course for SDG
+### Love thy white board
